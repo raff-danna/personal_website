@@ -1,0 +1,48 @@
+---
+title: "Publications"
+format: html
+---
+
+#### **Monograph**
+
+-   *The Craft of Indo-Arabic Numerals: How Practical Arithmetic Shaped Commerce and Mathematics in Western Europe, 1200-1600*. Monograph contracted, peer reviewed, and accepted for publication with Harvard University Press. Expected publication: spring 2026.
+
+#### **Peer-reviewed papers**
+
+-   Algebra in Transit in Late Medieval and Early Modern Europe, *Physis* (2025), 60 (1), 1-30.
+
+-   The spread of Hindu-Arabic numerals among practitioners in Italy and England (13th-16th c.): two moments of a European innovation cycle? *Datini Studies in Economic History* (2023), 259-287.
+
+-   Elaboration and diffusion of useful knowledge in the long run: the case of European practical arithmetic (13th-16th centuries), *Rivista di Storia Economica* (2022), 1, 57-84.
+
+-   Figuring Out: the Spread of Hindu-Arabic Numerals in the European Tradition of Practical Mathematics (13th-16th centuries), *Nuncius*,(2021), 36 (1), 1-44.
+
+-   Una scienza per la rinascita. Note su Paolo dell’Abaco e la matematica abacistica fiorentina, *Rinascimento* (2019), 59.
+
+#### **Working papers**
+
+-   (with M. Iori and A. Mina) ‘A Numerical Revolution: The Diffusion of Practical Mathematics and the Growth of Pre-Modern European Economies’, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4143442) Working Paper and [LEM](https://www.lem.sssup.it/WPLem/2022-18.html) Working Paper, 2022.
+
+<!-- -->
+
+-   (with T. Morel) ‘Text and practices: situating mathematics in practical arithmetic manuals. Evidence from German and Italian cases (14th-16th c.)’, in R. Wagner and S. Babu (eds.), *Normative Texts and Occupational Practices*, Boston Studies in the Philosophy and History of Science, Cham: Springer. Peer reviewed and accepted: forthcoming.
+
+-   (with S. Locatelli) ‘Dalla teoria alla prassi della matematica: libri d’abaco e pratiche di mercatura nel tardo medioevo’, *Studi di Storia Medioevale e Diplomatica*. Peer reviewed and accepted: forthcoming.
+
+-   ‘The Values of Numbers: The Roots of European Algebra in Late Medieval Commercial Capitalism’.
+
+#### **Book Chapters**
+
+-   Un rinascimento dal basso: l’aritmetica mercantile e la sua epistemologia pratica, in *Lo sguardo del lupo. Arte, matematica e filosofia nell’umanesimo del Quadrivio*, Bologna: Pendragon (2024), 43-72.
+
+#### **Book Reviews**
+
+-   “Jessica Otis, By the numbers: numeracy, religion, and the quantitative transformation of early modern England (New Yorl: Oxford University Press)”, *Historia Mathematica* (2025), forthcoming.
+
+-   “Pamela Smith, From lived experience to the written word: reconstructing practical knowledge in the early modern world (Chicago: University of Chicago Press)”, *Centaurus* (2023), 65 (4), 899-901.
+
+-   “Niccolò Guicciardini (ed.), Anachronisms in the History of Mathematics (Cambridge: Cambridge University Press)”, *Nuncius* (2022), 37, 721-755.
+
+-   La crisi in tre atti, la crisi in tre libri (review of *The Ascent of Money*, by Niall Ferguson, *Money: The Unauthorised Biography* by Felix Martin, and *Crashed* by Adam Tooze), *Rivista Il Mulino* (2020), 69 (2), 323-328.
+
+-   “William Deringer, Calculated Values: Finance, Politics, and the Quantitative Age (Cambridge, Mass. & London: Harvard University Press)”, *The Economic History Review* (2019), 72(1), 411-412. DOI: 10.1111/ehr.12833.

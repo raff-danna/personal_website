@@ -1,0 +1,15 @@
+{
+  "hash": "99a8bbef9c643a1cd778acf38390c256",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Raffaele Danna\"\n---\n\nI am an historian working on economic history and the history of science. I believe that a dialogue between these two disciplines is important to understand the complexity of historical change.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

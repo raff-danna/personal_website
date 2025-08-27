@@ -1,0 +1,15 @@
+{
+  "hash": "85b9e9ca267f74f6d539c9a121cb623a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Raffaele Danna\"\n---\n\nI am an historian working on economic history and the history of science. I believe that exploring the interconnections of technical, scientific, and economic processes is essential to understand the complexity of historical change.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

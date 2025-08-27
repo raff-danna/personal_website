@@ -1,0 +1,15 @@
+{
+  "hash": "43f10f504e853e361de5a7c108a3c969",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Projects\"\n---\n\nHere's my wonderful research\n\n-   Guest editor (with Francesco Brusori) for a [Special Issue](https://www.museogalileo.it/it/attivita/news/call-for-abstracts-galilaeana-knowledge-in-use.html) of *Galilaeana – Studies in Renaissance and Early Modern Science*. Theme: “Knowledge in Use. Practices and Practitioners in the Renaissance and Early Modern Period (14th-17th centuries)”. Expected publication: October 2026.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

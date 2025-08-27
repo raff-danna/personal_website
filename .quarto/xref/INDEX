@@ -1,0 +1,29 @@
+{
+  "index.qmd": {
+    "index.html": "410b4444"
+  },
+  "about.qmd": {
+    "about.html": "b4cf36bd"
+  },
+  "publications.qmd": {
+    "publications.html": "732d26c7"
+  },
+  "Research.qmd": {
+    "Research.html": "8db26d0e"
+  },
+  "Publications.qmd": {
+    "Publications.html": "b8be32e5"
+  },
+  "Home.qmd": {
+    "Home.html": "463e26b5"
+  },
+  "data.qmd": {
+    "data.html": "3259e27e"
+  },
+  "cv.qmd": {
+    "cv.html": "f2295319"
+  },
+  "Projects.qmd": {
+    "Projects.html": "4752145d"
+  }
+}

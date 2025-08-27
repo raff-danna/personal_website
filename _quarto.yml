@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Raffaele Danna"
+  favicon: files/my-favicon.png
+  navbar: 
+    left:
+      - href: Projects.qmd
+        text: Projects
+      - href: Publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+      - href: data.qmd
+        text: Data
+
+format:
+  html:
+    toc: false
+    theme:
+      light: cosmo
+      dark: darkly
+    respect-user-color-scheme: true
+    css: styles.css
+
+editor: visual
+
