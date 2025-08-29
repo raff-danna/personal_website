@@ -13,8 +13,6 @@ website:
         text: Publications
       - href: cv.qmd
         text: CV
-      - href: data.qmd
-        text: Data
 
 format:
   html:
