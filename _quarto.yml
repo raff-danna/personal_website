@@ -6,7 +6,7 @@ project:
 
 website:
   title: "Raffaele Danna"
-  favicon: files/my-favicon.png
+  favicon: /files/my-favicon.png
   navbar: 
     left:
       - href: Projects.qmd
