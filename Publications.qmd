@@ -21,7 +21,7 @@ format: html
 
 #### **Working papers**
 
--   (with M. Iori and A. Mina) ‘A Numerical Revolution: The Diffusion of Practical Mathematics and the Growth of Pre-Modern European Economies’, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4143442) Working Paper and [LEM](https://www.lem.sssup.it/WPLem/2022-18.html) Working Paper, 2022.
+-   (with M. Iori and A. Mina) ‘A Numerical Revolution: The Diffusion of Practical Mathematics and the Growth of Pre-Modern European Economies’. Latest draft <a href="files/A_numerical_revolution_last.pdf" target="_blank">here</a>
 
 <!-- -->
 
