@@ -1,14 +1,16 @@
 /* css styles */
 
-/* Target the list of navigation links */
+/* 1. Target the main list of navigation links */
 .navbar-nav {
-  /* This is the key: forces the list items to display 
-     in the source order, not the active-item-first order */
+  /* Use flexbox to maintain source order */
   display: flex; 
+  /* Important: disables any auto-ordering that might be applied to the parent container */
+  flex-direction: row; 
 }
 
-/* Target the specific navbar item that is active */
+/* 2. Target the specific list item that is marked as 'active' */
 .navbar-nav > li.active {
-  /* This forces the active item back to its natural place in the list */
+  /* This is the key rule: it overrides the CSS that Quarto/Bootstrap 
+     uses to push the active link to the front. */
   order: unset !important; 
 }
