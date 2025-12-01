@@ -1,1 +1,14 @@
 /* css styles */
+
+/* Target the list of navigation links */
+.navbar-nav {
+  /* This is the key: forces the list items to display 
+     in the source order, not the active-item-first order */
+  display: flex; 
+}
+
+/* Target the specific navbar item that is active */
+.navbar-nav > li.active {
+  /* This forces the active item back to its natural place in the list */
+  order: unset !important; 
+}
