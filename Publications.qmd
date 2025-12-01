@@ -21,7 +21,7 @@ format: html
 
 #### **Working papers**
 
--   (with M. Iori and A. Mina) ‘A Numerical Revolution: The Diffusion of Practical Mathematics and the Growth of Pre-Modern European Economies’. Latest draft <a href="files/A_numerical_revolution_last.pdf" target="_blank">here</a>
+-   (with M. Iori and A. Mina) ‘A Numerical Revolution: The Diffusion of Practical Mathematics and the Growth of Pre-Modern European Economies’. <a href="files/A_numerical_revolution_last.pdf" target="_blank">Latest draft</a>
 
 <!-- -->
 
