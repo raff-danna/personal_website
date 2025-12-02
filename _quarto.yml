@@ -8,6 +8,10 @@ website:
   title: "Raffaele Danna"
   site-url: "https://rafdanna.com"
   favicon: /files/my-favicon.png
+  page-footer:
+    includes: 
+      in-header: |
+        <link rel="canonical" href="{{< meta site-url >}}{{< meta page-url >}}">
   navbar:
     left:
       - href: Publications.qmd
