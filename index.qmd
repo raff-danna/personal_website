@@ -8,10 +8,13 @@ title: ""
 ::::: grid
 ::: g-col-7
 <br>
-I am an historian working on economic history and the history of science. My research focuses on how technical, scientific, and economic processes interact to produce historical change.
+I am an historian working on economic history and the history of science. My research explores how technical, scientific, and economic processes interact to produce historical change. 
+<br>
+
+My first book explores how Indo-Arabic numerals (0, 1, 2, 3…) spread across Europe, reconstructing both a social history of practical mathematics and an economic history of late medieval and early modern Europe. 
 <br><br>
 
-I am an Assistant Professor (tenure track) at the Institute of Economics of the Sant'Anna School of Advanced Studies (Pisa).
+I am Assistant Professor (tenure track) at the Institute of Economics of the Sant'Anna School of Advanced Studies (Pisa).
 <br>
 
 I completed my PhD in History at the University of Cambridge and was previously a Max Weber Fellow at the European University Institute. <br><br><br>
