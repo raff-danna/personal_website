@@ -16,7 +16,7 @@ format: html
 
 ### *How Practical Arithmetic Shaped Commerce and Mathematics in Western Europe, 1200-1600*
 
-##### <br> Harvard University Press
+##### <br> Harvard University Press <br>
 
 > "A fine-grained account of how Indo-Arabic numerals facilitated the spread of practical knowledge in Western Europe—reshaping both commerce and mathematics in the process."
 
