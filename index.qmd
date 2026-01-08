@@ -8,7 +8,7 @@ title: ""
 ::::: grid
 ::: g-col-7
 <br>
-I am an historian working on economic history and the history of science. My research explores how technical, scientific, and economic processes interact to produce historical change. 
+I am an historian working on economic history and the history of science. I am interested in how technical, scientific, and economic processes interact to produce historical change. 
 <br>
 
 My first book explores how Indo-Arabic numerals (0, 1, 2, 3…) spread across Europe, reconstructing both a social history of practical mathematics and an economic history of late medieval and early modern Europe. 
@@ -17,11 +17,12 @@ My first book explores how Indo-Arabic numerals (0, 1, 2, 3…) spread across Eu
 I am Assistant Professor (tenure track) at the Institute of Economics of the Sant'Anna School of Advanced Studies (Pisa).
 <br>
 
-I completed my PhD in History at the University of Cambridge and was previously a Max Weber Fellow at the European University Institute. <br><br><br>
+I completed my PhD in History at the University of Cambridge and was previously a Max Weber Fellow at the European University Institute. <br><br>
+You can find my full CV <a href="files/CV_Raffaele_Danna.pdf" target="_blank">here</a> <br><br><br>
 
-Contact:
+You reach me at:
 
-rd533\[at\]cantab.ac.uk
+r.danna\[at\]santannapisa.it    |   rd533\[at\]cantab.ac.uk
 :::
 
 ::: g-col-5

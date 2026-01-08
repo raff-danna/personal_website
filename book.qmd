@@ -1,0 +1,75 @@
+---
+title: ""
+format: html
+---
+
+:::::: columns
+::: {.column width="45%"}
+![](files/book_cover.png){fig-alt="Book Cover" style="width: 100%; border-radius: 8px;"}
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+# *The Craft of Indo-Arabic Numerals*
+
+### *How Practical Arithmetic Shaped Commerce and Mathematics in Western Europe, 1200-1600*
+
+##### <br> Harvard University Press
+
+> "A fine-grained account of how Indo-Arabic numerals facilitated the spread of practical knowledge in Western Europe—reshaping both commerce and mathematics in the process."
+
+Out in April 2026 \| Pre-order
+
+• [HUP](https://www.hup.harvard.edu/books/9780674279339)
+
+• [Amazon](https://www.amazon.com/gp/product/0674279336)
+:::
+::::::
+
+------------------------------------------------------------------------
+
+::: {.column width="100%"}
+#### **About the Book**
+
+<br> In the thirteenth-century Mediterranean, commerce transformed as merchants shifted from Roman to Indo-Arabic numerals—an alternative that better facilitated complex calculations. It has long been known that this transition stemmed from Europe’s increasing exchanges with India, Persia, and the Arabic world. Yet much remains to be understood about how Indo-Arabic numerals—and the practical arithmetic they enabled—actually spread across Europe. As Raffaele Danna shows, it was hundreds of ordinary merchants, schoolmasters, and artisans who nurtured these changes, thereby driving key advances in both commerce and mathematics.
+
+Drawing on an original catalog of more than 1,200 practical arithmetic manuals, the book charts the incremental spread of the new figures with unprecedented precision. While Italian merchants were the early adopters, it took nearly three centuries for Indo-Arabic numerals to become established in northern Europe. As the book shows, adoption did not follow the routes of maritime trade. Rather, Indo-Arabic numerals moved gradually across the continent through inland networks of practitioners. Everywhere they went, the ten figures enhanced commercial practices and facilitated the emergence of a coherent language of mathematical craft. The growing social circulation of this knowledge, in turn, had a lasting impact on the economic trajectory of Western Europe. By the late sixteenth century, even academics were absorbing lessons from the vernacular tradition—a development that led to the first major breakthroughs in European mathematical theory since antiquity.
+
+Combining economic history with the social history of mathematics, *The Craft of Indo-Arabic Numerals* illuminates the integral role of practical arithmetic in both intellectual and commercial transformations across Western Europe.
+:::
+
+:::::::: {.column width="100%"}
+#### **Praise**
+
+::: {style="border-left: 1.5px solid #000000; padding-left: 20px; margin-bottom: 30px;"}
+In this landmark study, Danna demonstrates the profound implications of the adoption and diffusion of Indo-Arabic numerals across Europe. Tracing how the ten figures impacted the evolution of practical mathematics, he illuminates the far-reaching consequences for the growth of commerce and manufacturing. Meticulously researched and documented, this book will change the way we think about the history of the growth of useful knowledge. A must-read for any scholar interested in the origins of the European Miracle.
+
+— **Joel Mokyr**, Nobel Prize–winning author of *A Culture of Growth: The Origins of the Modern Economy*
+:::
+
+::: {style="border-left: 1.5px solid #000000; padding-left: 20px; margin-bottom: 30px;"}
+A profoundly intelligent book. Danna is not content simply to describe the shift from Roman to Indo-Arabic numerals; he delves deeply into the cognitive and symbolic revolution it represented. This is a rare work that takes the intellectual substance of a practical craft seriously, revealing how a new way of calculating became a new way of thinking.
+
+— **Sheilagh Ogilvie**, author of *The European Guilds: An Economic Analysis*
+:::
+
+::: {style="border-left: 1.5px solid #000000; padding-left: 20px; margin-bottom: 30px;"}
+This important work exemplifies the history of knowledge at its finest, combining the social history of mathematics with broader themes in economic and technological history. Using quantitative analysis alongside detailed case studies, Raffaele Danna illuminates the multifaceted influence of mathematical practitioners in early modern societies.
+
+— **Thomas Morel**, author of *Underground Mathematics: Craft Culture and Knowledge Production in Early Modern Europe*
+:::
+
+::: {style="border-left: 1.5px solid #000000; padding-left: 20px; margin-bottom: 30px;"}
+A powerful account of how practical mathematics became intertwined with the growth of ​late medieval and early modern capitalism in Europe. Marshaling a vast array of evidence, Raffaele Danna shows how Indo-Arabic numerals gradually spread across the continent and became far more than mere tools for calculation. The result is an extraordinary history of how Europeans first came to use the numbers and mathematics that we rely on today.
+
+— **Patrick Wallis**, author of *The Market for Skill: Apprenticeship and Economic Growth in Early Modern England*
+:::
+
+::: {style="border-left: 1.5px solid #000000; padding-left: 20px; margin-bottom: 30px;"}
+An important and original contribution. Drawing on more than 1,200 arithmetic manuals written for ordinary users, Raffaele Danna shows how Indo-Arabic numerals spread across Europe through networks of practitioners, revolutionizing first commerce and then elite mathematics.
+
+— **Morgan Kelly**, Professor of Economics at University College Dublin
+:::
+::::::::

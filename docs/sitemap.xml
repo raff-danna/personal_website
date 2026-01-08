@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://rafdanna.com/Publications.html</loc>
-    <lastmod>2025-12-01T23:36:00.283Z</lastmod>
+    <lastmod>2026-01-08T16:41:35.592Z</lastmod>
   </url>
   <url>
     <loc>https://rafdanna.com/Projects.html</loc>
@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://rafdanna.com/index.html</loc>
-    <lastmod>2026-01-05T10:44:29.759Z</lastmod>
+    <lastmod>2026-01-08T18:31:24.714Z</lastmod>
   </url>
   <url>
     <loc>https://rafdanna.com/data.html</loc>
@@ -19,5 +19,9 @@
   <url>
     <loc>https://rafdanna.com/cv.html</loc>
     <lastmod>2025-08-27T21:07:18.540Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rafdanna.com/book.html</loc>
+    <lastmod>2026-01-08T18:19:10.328Z</lastmod>
   </url>
 </urlset>
