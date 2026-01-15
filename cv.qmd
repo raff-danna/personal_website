@@ -24,4 +24,4 @@ format: html
 
 <br>
 
-Interested in more details? You can find my full CV <a href="files/CV_Raffaele_Danna.pdf" target="_blank">here</a>
+Want to know more? You can find my full CV <a href="files/CV_Raffaele_Danna.pdf" target="_blank">here</a>
