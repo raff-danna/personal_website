@@ -18,7 +18,8 @@ I am Assistant Professor (tenure track) at the Institute of Economics of the San
 <br>
 
 I completed my PhD in History at the University of Cambridge and was previously a Max Weber Fellow at the European University Institute. <br><br>
-You can find my full CV <a href="files/CV_Raffaele_Danna.pdf" target="_blank">here</a> <br><br><br>
+You can find an outline of my CV <a href="cv.html">here</a> 
+<br><br><br>
 
 You can reach me at:
 
