@@ -20,7 +20,7 @@ One of the biggest questions in early modern history is explaining how Europe de
 
 **Economic historians**, together with exploring environmental, technological, institutional, and macroeconomic factors, have recently revisited the thesis that a key contribution to the “industrial revolution” came from the world of practitioners (Cipolla 1969; Berg 1994). This literature has stressed the essential role in this period of deep economic change of the knowledge promoted by practically minded enlightenment intellectuals and by humbler figures, such as artisans and other practitioners (Mokyr 2002; 2005; 2017; Berg 2007, 200; Kelly, Mokyr, and Ó Gráda 2014; Cinnirella, Hornung, and Koschnick 2022). Kelly and Ó Gráda (2022) have shown how practical mathematics is a particularly significant field to explore the connections between economic and scientific change in this crucial period.
 
-**However**, while some of these practitioners have received much scholarly attention (Kassell 2005; Biagioli 2006; Long et al. 2009; P. H. Smith 2022), their emergence as a long-run and incremental phenomenon is still understudied. Historians of science have mainly focused on individual practitioners rather than studying their emergence as a social phenomenon, and have not sought to reconstruct its quantitative features and its dynamics. At the same time, economic historians have not fully taken into account the epistemological relevance of the emergence of practical knowledge.
+**However**, while some of these practitioners have received much scholarly attention (Kassell 2005; Long et al. 2009; P. H. Smith 2022), their emergence as a long-run and incremental phenomenon is still understudied. Historians of science have mainly focused on individual practitioners rather than studying their emergence as a social phenomenon, and have not sought to reconstruct its quantitative features and its dynamics. At the same time, economic historians have not fully taken into account the epistemological relevance of the emergence of practical knowledge.
 
 **WorKnow aims to bridge this gap** by creating a dialogue between these streams of literature and by reconstructing in unprecedented detail the emergence of practitioners and of practical knowledge in early modern Europe.
 
@@ -37,8 +37,6 @@ Berg, Maxine. 1994. *The Age of Manufactures, 1700-1820: Industry, Innovation an
 ———. 2007. ‘The Genesis of “Useful Knowledge”’. *History of Science* 45 (2): 123–33.
 
 Bertucci, Paola. 2017. *Artisanal Enlightenment: Science and the Mechanical Arts in Old Regime France*. New Haven ; London: Yale University Press.
-
-Biagioli, Mario. 2006. *Galileo’s Instruments of Credit: Telescopes, Images, Secrecy*. Chicago ; London: University of Chicago Press.
 
 Cinnirella, Francesco, Erik Hornung, and Julius Koschnick. 2022. ‘Flow of Ideas: Economic Societies and the Rise of Useful Knowledge’. *SSRN Scholarly Paper*.
 
