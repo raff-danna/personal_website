@@ -8,7 +8,7 @@ title: ""
 
 #### **Funding**
 
-The project supported by a Starting Grant awarded by the Italian Fund for Science (Fondo Italiano per la Scienza) of the Italian Ministery for Research.
+The project supported by a Starting Grant awarded by the Italian Fund for Science (Fondo Italiano per la Scienza) of the Italian Ministry for Research.
 
 FIS grants promote the development of fundamental research, following the model of the European Research Council (ERC).
 
