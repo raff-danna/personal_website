@@ -17,7 +17,7 @@ format: html
 
 -   Elaboration and diffusion of useful knowledge in the long run: the case of European practical arithmetic (13th-16th centuries), *Rivista di Storia Economica* (2022), 1, 57-84.
 
--   Figuring Out: the Spread of Hindu-Arabic Numerals in the European Tradition of Practical Mathematics (13th-16th centuries), *Nuncius*,(2021), 36 (1), 1-44.
+-   Figuring Out: the Spread of Hindu-Arabic Numerals in the European Tradition of Practical Mathematics (13th-16th centuries), *Nuncius* (2021), 36 (1), 1-44.
 
 -   Una scienza per la rinascita. Note su Paolo dell’Abaco e la matematica abacistica fiorentina, *Rinascimento* (2019), 59.
 
