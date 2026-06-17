@@ -27,7 +27,7 @@ format: html
 
 <!-- -->
 
--   (with T. Morel) ‘Text and practices: situating mathematics in practical arithmetic manuals. Evidence from German and Italian cases (14th-16th c.)’, in R. Wagner and S. Babu (eds.), *Normative Texts and Occupational Practices*, Boston Studies in the Philosophy and History of Science, Cham: Springer. Forthcoming.
+-   (with T. Morel) ‘Arithmetic Manuals as Crystallization of Mathematical Practices. Evidence from Italian and German Texts (14th-16th c.)’, in R. Wagner and S. Babu (eds.), *Normative Texts and Occupational Practices*, Boston Studies in the Philosophy and History of Science, Cham: Springer. Forthcoming.
 
 -   (with S. Locatelli) ‘Dalla teoria alla prassi della matematica: libri d’abaco e pratiche di mercatura nel tardo medioevo’
 
