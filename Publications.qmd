@@ -35,7 +35,7 @@ format: html
 
 #### **Book Chapters**
 
-- (with S. Locatelli) ‘Dalla teoria alla prassi della matematica: libri d’abaco e pratiche di mercatura nel tardo medioevo’, in A. Bassani, M. Gazzini, A. Olivieri, “Rationem reddere. Diritto, assistenza, cultura tecnica e scientifica (medioevo e prima età moderna)”, *Quaderni degli Studi di Storia Medievale e di Diplomatica* (2026), 10, 199-223.
+- (with S. Locatelli) ‘Dalla teoria alla prassi della matematica: libri d’abaco e pratiche di mercatura nel tardo medioevo’, in A. Bassani, M. Gazzini, A. Olivieri (eds.), “Rationem reddere. Diritto, assistenza, cultura tecnica e scientifica (medioevo e prima età moderna)”, *Quaderni degli Studi di Storia Medievale e di Diplomatica* (2026), 10, 199-223.
 - Un rinascimento dal basso: l’aritmetica mercantile e la sua epistemologia pratica, in *Lo sguardo del lupo. Arte, matematica e filosofia nell’umanesimo del Quadrivio*, Bologna: Pendragon (2024), 43-72.
 
 #### **Book Reviews**
